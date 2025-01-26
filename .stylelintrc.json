@@ -1,0 +1,11 @@
+{
+    "extends": [
+        "stylelint-config-standard"
+    ],
+    "rules": {
+        "indentation": 2,
+        "declaration-colon-space-after": "always",
+        "declaration-colon-space-before": "never",
+        "color-function-notation": "modern"
+    }
+}
